@@ -84,7 +84,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="176" />
     <option name="y" value="45" />
     <option name="width" value="1750" />
@@ -112,7 +112,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/vuejs/vue 2.0 入门及到实战开发/vue2.0讲师源代码" />
+    <property name="last_opened_file_path" value="E:/vuejs/项目实战/06.Vue2.0+Node.js+MongoDB全栈打造商城系统/代码/z1b8jp" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -167,15 +167,15 @@
       <updated>1525502491435</updated>
       <workItem from="1525502494194" duration="3581000" />
       <workItem from="1525506334106" duration="1745000" />
-      <workItem from="1525575296580" duration="627000" />
+      <workItem from="1525575296580" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5953000" />
+    <option name="totallyTimeSpent" value="5971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17838542" />
       <window_info anchor="bottom" id="TODO" order="6" />
